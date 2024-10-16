@@ -1,0 +1,388 @@
+[
+  {
+    "id": "1411f9ac-836f-4932-a294-32b9db1a3598",
+    "name": "1",
+    "year": 2021,
+    "description": "Qwerty(update)",
+    "projectType": "Short",
+    "imdbUrl": null,
+    "company": {
+      "id": "afee4f8e-7efd-4022-8c8f-3ae729aa3b69",
+      "name": "s50",
+      "legalName": "s50",
+      "logoUrl": null
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Bollywood"
+    ],
+    "posters": [
+      
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "5b97f8ad-edb5-4178-8384-85c4d43325e4",
+    "name": "111",
+    "year": 2020,
+    "description": "авфаыв",
+    "projectType": "Series",
+    "imdbUrl": "https://ааа",
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": {
+      "id": 12,
+      "name": "Armenia",
+      "currency": "AMD",
+      "phone": 374,
+      "capital": "Yerevan",
+      "code": "AM",
+      "code3": "ARM",
+      "number": 51
+    },
+    "originalLanguage": {
+      "id": "sq",
+      "name": "Albanian"
+    },
+    "genres": [
+      "Black and White",
+      "Animation"
+    ],
+    "posters": [
+      {
+        "id": "5c6a75c3-71aa-4782-af41-4523133b6a88",
+        "createdDate": "2024-10-16T08:02:01.866478Z",
+        "fileName": "png.png",
+        "url": "https://public-stg.titlepool.com/9aa6e92c-08ab-4923-a51a-b11614c9e70d_png.png",
+        "fileSize": 819009,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "bfd181bb-c9cc-44c5-ad5d-579b8abeaac2",
+    "name": "1111",
+    "year": 2022,
+    "description": "fasdffdsa",
+    "projectType": "Short",
+    "imdbUrl": null,
+    "company": {
+      "id": "668d2ad5-6be5-45a8-863a-f61b7db2a9ff",
+      "name": "valera",
+      "legalName": "valera",
+      "logoUrl": null
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      
+    ],
+    "posters": [
+      
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "fd3b162e-9079-4658-8d54-980801b52d38",
+    "name": "11111",
+    "year": 2022,
+    "description": "афыасыфсвсфыв",
+    "projectType": "Short",
+    "imdbUrl": null,
+    "company": {
+      "id": "668d2ad5-6be5-45a8-863a-f61b7db2a9ff",
+      "name": "valera",
+      "legalName": "valera",
+      "logoUrl": null
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Bollywood",
+      "Black and White"
+    ],
+    "posters": [
+      
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "96a9bf41-c5a3-4225-be0f-b90b74380e1d",
+    "name": "26-08-0112",
+    "year": 1888,
+    "description": "26-08-0112",
+    "projectType": "TV movie",
+    "imdbUrl": null,
+    "company": {
+      "id": "f80b6d3a-b903-4639-87cd-48dae51039cc",
+      "name": "some first company",
+      "legalName": "legal...",
+      "logoUrl": "https://public-stg.titlepool.com/04c08e65-99da-4649-b50e-7fd4df422e37_Pi-hole_Logo.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Sports",
+      "Action",
+      "Young Adult"
+    ],
+    "posters": [
+      {
+        "id": "1ac987da-2771-484d-9e2d-d97559b6f23b",
+        "createdDate": "2024-08-26T09:26:23.420967Z",
+        "fileName": "png.png",
+        "url": "https://public-stg.titlepool.com/690d0e31-99ae-4e5f-a3a2-94670d395637_png.png",
+        "fileSize": 819009,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "b3fa4d8b-0020-409a-8b36-75c1df1f1150",
+    "name": "27.08. - visibility test --- 1",
+    "year": 1888,
+    "description": "27.08. - visibility test --- 1",
+    "projectType": "TV movie",
+    "imdbUrl": null,
+    "company": {
+      "id": "f80b6d3a-b903-4639-87cd-48dae51039cc",
+      "name": "some first company",
+      "legalName": "legal...",
+      "logoUrl": "https://public-stg.titlepool.com/04c08e65-99da-4649-b50e-7fd4df422e37_Pi-hole_Logo.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Surreal",
+      "Action",
+      "Young Adult"
+    ],
+    "posters": [
+      {
+        "id": "93c94d7c-0205-4183-a5fb-e26765ec8c69",
+        "createdDate": "2024-08-27T12:11:31.352137Z",
+        "fileName": "png.png",
+        "url": "https://public-stg.titlepool.com/61e612db-8b82-422c-84bc-366487009be5_png.png",
+        "fileSize": 819009,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "4021ae62-17af-41e2-99a8-02e8a392b237",
+    "name": "341",
+    "year": 2021,
+    "description": "афываф",
+    "projectType": "Series",
+    "imdbUrl": null,
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Black and White",
+      "Comedy",
+      "Animation"
+    ],
+    "posters": [
+      {
+        "id": "2c45771c-261a-439e-a743-01213e110261",
+        "createdDate": "2024-08-22T18:37:41.867622Z",
+        "fileName": "testt.jpg",
+        "url": "https://public-stg.titlepool.com/04ff75f8-09a1-4fb9-8bb7-f577cfa64244_testt.jpg",
+        "fileSize": 217960,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "5ea2b60a-b06c-4abc-bf2b-772406af8d5a",
+    "name": "Apollo 13(update)",
+    "year": 2008,
+    "description": "This Hollywood drama is based on the events of the Apollo 13 lunar mission, astronauts Jim Lovell (Tom Hanks), Fred Haise (Bill Paxton) and Jack Swigert (Kevin Bacon) find everything going according to plan after leaving Earth's orbit. However, when an oxygen tank explodes, the scheduled moon landing is called off. (update)1",
+    "projectType": "Feature",
+    "imdbUrl": null,
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Drama",
+      "Historical"
+    ],
+    "posters": [
+      {
+        "id": "fa5d1d9e-61c3-4d7d-9a14-f058fb71c402",
+        "createdDate": "2024-07-19T09:20:30.208656Z",
+        "fileName": "71RzeY3ixIL._AC_SL1009_.jpg",
+        "url": "https://public-stg.titlepool.com/9d4a47f6-b252-44f3-bb25-5db09f2382ed_71RzeY3ixIL._AC_SL1009_.jpg",
+        "fileSize": 81008,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "1b31243b-0738-4555-9e5c-c0cb9bea3a3b",
+    "name": "Artem homevideo",
+    "year": 2024,
+    "description": "",
+    "projectType": "Short",
+    "imdbUrl": null,
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Drama",
+      "Action",
+      "Adventure"
+    ],
+    "posters": [
+      {
+        "id": "9bb8c7e8-5db6-4e98-af3a-801aa1273450",
+        "createdDate": "2024-09-04T15:11:51.353565Z",
+        "fileName": "nb-logo.png",
+        "url": "https://public-stg.titlepool.com/346a3ac5-927f-454c-99ca-1ff618ea830b_nb-logo.png",
+        "fileSize": 57369,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "9144c3ec-8b02-48e9-8d5d-1fbb285512e0",
+    "name": "asdasd",
+    "year": 2023,
+    "description": "q",
+    "projectType": "Short",
+    "imdbUrl": null,
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Biopic"
+    ],
+    "posters": [
+      {
+        "id": "b950ebc7-0edb-4d15-b21a-caf11661276d",
+        "createdDate": "2024-04-30T12:35:43.647256Z",
+        "fileName": "IMG_20221228_212524_830.jpg",
+        "url": "https://public-stg.titlepool.com/9fac416e-e69f-46c6-82ca-74c290791078_IMG_20221228_212524_830.jpg",
+        "fileSize": 147566,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "74f92f00-8c83-4b98-9081-d6513d658efa",
+    "name": "Avengers",
+    "year": 2017,
+    "description": "Avengers",
+    "projectType": "Feature",
+    "imdbUrl": null,
+    "company": {
+      "id": "f748354f-5c4c-4ea8-ba06-2fb5a4017dad",
+      "name": "1232",
+      "legalName": "31321",
+      "logoUrl": "https://public-stg.titlepool.com/49c5c600-0913-4b46-85cc-d641e7352dd0_png.png"
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Science Fiction"
+    ],
+    "posters": [
+      {
+        "id": "991a68dc-5db0-48f6-b61e-b4acc4240b47",
+        "createdDate": "2024-06-30T10:50:58.444807Z",
+        "fileName": "65e23347-2ccc-4581-9700-581e0ea9c3a8.a808f8889bfa9e368659fbefc5e5dda4.webp",
+        "url": "https://public-stg.titlepool.com/98e8266d-6765-4862-9b53-fa9e71738ab0_65e23347-2ccc-4581-9700-581e0ea9c3a8.a808f8889bfa9e368659fbefc5e5dda4.webp",
+        "fileSize": 234600,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  },
+  {
+    "id": "39b6701b-be45-41bc-8c12-e9aa1be43fc9",
+    "name": "Avengers ",
+    "year": 2005,
+    "description": "once uppon a time",
+    "projectType": "",
+    "imdbUrl": null,
+    "company": {
+      "id": "daf8ac4d-34b0-434e-8f04-6e129db48d34",
+      "name": "sirius17",
+      "legalName": "sirius17",
+      "logoUrl": null
+    },
+    "country": null,
+    "originalLanguage": null,
+    "genres": [
+      "Adventure"
+    ],
+    "posters": [
+      {
+        "id": "d8fb03a9-959a-438f-bd53-264ac0954a6b",
+        "createdDate": "2024-02-29T13:47:52.479148Z",
+        "fileName": "bedroom-spa-suite.jpg",
+        "url": "https://public-stg.titlepool.com/8b059389-c5cb-47fc-a892-3e535b4b4860_bedroom-spa-suite.jpg",
+        "fileSize": 18217566,
+        "expiration": null
+      }
+    ],
+    "trailers": [
+      
+    ]
+  }
+]
